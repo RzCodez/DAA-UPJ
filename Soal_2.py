@@ -1,9 +1,11 @@
-# Nama: Kafka Ramadityo
-# Program Studi: Informatika
-# Mata Kuliah: DAA (INF-A)
+"""
+Nama: Kafka Ramadityo
+Program Studi: Informatika
+Mata Kuliah: DAA (INF-A)
 
-# 2. Fungsi untuk menukar posisi dua variabel x dan y, dengan kasus : 
-# Ada 2 buah: manggis dan pisang. Manggis di piring 1, Pisang di piring 2. Piring 3 kosong.
+2. Fungsi untuk menukar posisi dua variabel x dan y, dengan kasus : 
+Ada 2 buah: manggis dan pisang. Manggis di piring 1, Pisang di piring 2. Piring 3 kosong.
+"""
 
 piring_1 = "Manggis"
 piring_2 = "Pisang"
