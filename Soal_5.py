@@ -1,4 +1,8 @@
 """
+Nama: Kafka Ramadityo
+Program Studi: Informatika
+MatKul: DAA (INF-A)
+
 5. Tentukan algoritma dan pseudocode volume tabung (jari-jari = 3, tinggi = 5)
 """
 
