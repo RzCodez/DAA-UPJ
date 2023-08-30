@@ -1,12 +1,18 @@
-# 4. Tentukan algoritma dan pseudocode luas jajar genjang
-#     (panjang = 5, tinggi = 3) 
+"""
+Nama: Kafka Ramadityo
+Program Studi: Informatika
+MatKul: DAA (INF-A)
+
+4. Tentukan algoritma dan pseudocode luas jajar genjang
+    (panjang = 5, tinggi = 3) 
 
 
-# Algoritma
-# Input panjang alas (p) jajar genjang.
-# Input tinggi (t) jajar genjang.
-# Hitung luas jajar genjang dengan rumus: Luas = alas * tinggi.
-# Tampilkan hasil luas.
+Algoritma
+Input panjang alas (p) jajar genjang.
+Input tinggi (t) jajar genjang.
+Hitung luas jajar genjang dengan rumus: Luas = alas * tinggi.
+Tampilkan hasil luas.
+"""
 
 tinggi = 3
 panjang = 5
