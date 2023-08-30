@@ -1,4 +1,6 @@
-
+# Nama: Kafka Ramadityo
+# Program Studi: Informatika
+# Mata Kuliah: DAA (INF-A)
 
 # 3. Diketahui sebuah segitiga memiliki ukuran sebagai berikut:
 # Alas 25
