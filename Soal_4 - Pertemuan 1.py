@@ -7,11 +7,22 @@ MatKul: DAA (INF-A)
     (panjang = 5, tinggi = 3) 
 
 
-Algoritma
-Input panjang alas (p) jajar genjang.
-Input tinggi (t) jajar genjang.
-Hitung luas jajar genjang dengan rumus: Luas = alas * tinggi.
-Tampilkan hasil luas.
+#Algoritma 
+
+1. Inisialisasi variabel tinggi dengan nilai 3. 
+2. Inisialisasi variabel panjang dengan nilai 5. 
+3. Hitung luas dengan mengalikan panjang dan tinggi dan simpan hasilnya dalam variabel luas. 
+4. Tampilkan nilai panjang dan tinggi. 
+5. Tampilkan nilai luas dengan pesan yang sesuai. 
+
+#Pseudocode 
+
+SET tinggi TO 3 
+SET panjang TO 5 
+SET luas TO panjang * tinggi 
+
+DISPLAY "alas: " + panjang + " tinggi: " + tinggi 
+DISPLAY "Luas dari jajar genjang adalah: " + luas 
 """
 
 tinggi = 3
